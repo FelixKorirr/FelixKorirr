@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Backend Developer</h3>
 <img align="right" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="">
 
-<p align="left"> <a href="https://twitter.com/korir113" target="blank"><img src="https://img.shields.io/twitter/follow/korir113?logo=twitter&style=for-the-badge" alt="korir113" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felixkorirr&label=Profile%20views&color=0e75b6&style=flat" alt="felixkorirr" /> </p>
 
-- 📝 I regularly write articles on https://hashnode.com/@DevKorir
+- 📝 I regularly write articles on **https://hashnode.com/@DevKorir**
 
 - 💬 Ask me about **Flask, Django**
 
