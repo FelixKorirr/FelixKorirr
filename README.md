@@ -8,7 +8,9 @@
 
 - 💬 Ask me about **Flask, Django**
 
-- 📫 How to reach me **kipronofelix361@gmail.com**
+- 📱 How to reach me ** +254 717-008-763 **
+
+- 📫 Reach me through email **kipronofelix361@gmail.com**
 
 - ⚡ Fun fact **Euphoria is GOATED**
 
