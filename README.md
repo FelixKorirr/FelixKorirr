@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flask, Django**
 
-- 📱 How to reach me ** +254 717-008-763 **
+- 📱 Reach me through phone **+254-717-008-763**
 
 - 📫 Reach me through email **kipronofelix361@gmail.com**
 
