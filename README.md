@@ -4,21 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixkorirr&label=Profile%20views&color=0e75b6&style=flat" alt="felixkorirr" /> </p>
 
-- 📝 I regularly write articles on **https://hashnode.com/@DevKorir**
+- 📝 I write articles on **https://hashnode.com/@DevKorir**
 
-- 💬 Ask me about **Flask, Django**
+- 💬 Ask me about **Backend Development, Technical Writing**
 
 - 📱 Reach me through Phone at **+254-717-008-763**
 
 - 📫 Reach me through Email at **kipronofelix361@gmail.com**
 
-- ⚡ Fun fact **Euphoria is GOATED**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/korir113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="korir113" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/felix-korir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/felix-korir" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@devkorir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@devkorir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
